@@ -30,10 +30,28 @@ Coinbase is one of the leaders in their sector which is the platform for buying 
 ##### Strenghts: 
 * Reward Program
 * Mobile app
+* Wide selections of Cryptocurrencies
+* Low account minimum
+* Convenient user experience
+* Spot trading
 
 ##### Pros:
 * High fees on transactions
+* Complications 
 
 ### What is the prognosis for this company? Where do they expect to be in the future?
+I expect Bitcoin and Ether to survive the crypto winter even as some of the smaller cryptocurrencies and more troubled exchanges die out. 
+That said, I believe the crypto winter could also drag on for years as economic malaise and higher interest rates cause investors to stay away from the crypto market.
+Coinbase's survival will hinge entirely on the length of that downturn, which is impossible to accurately predict.
+Coinbase's position as a well-established, regulated player in the market may give it a distinct advantage in the face of market disruption. 
+As the cryptocurrency market continues to evolve and mature, Coinbase's strength and stability could make it a key player in the industry for years to come.
+In addition to benefiting from FTX’s demise, we also believe that Coinbase could benefit from increased demand for cryptocurrencies as well as institutional adoption of digital assets such as Bitcoin and Ethereum. 
+As more institutional investors enter the space, they will likely look towards established exchanges such as Coinbase when trading these assets.
 
 ![coinbase](coinbase.jpg) 
+
+##### Contributors
+1) Mohammad Zahur
+2) Sujandar Mahesan
+3) Brandon Petrie
+4) John Yin
