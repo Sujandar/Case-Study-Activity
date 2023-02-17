@@ -11,7 +11,7 @@ cryptocurrency services, making them indirect competitors to Coinbase.
 ### How does this company use technology to their advantage? Why are they considered a FinTech company?
 
 Coinbase relies on web3.0 and redundant blockchain infrastructure.  It uses multi-cloud computing to generate an enterprise grade platform as a service. 
-It utilizes the use of 50 technological products.
+It utilizes the use of 50 technological products.  AWS is the cloud company of choice by Coinbase.
 The end product is a platform that allowns consumers to buy and sell cryptocurrencys, amongst others.
 
 ### Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
