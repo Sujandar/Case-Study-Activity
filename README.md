@@ -10,6 +10,10 @@ cryptocurrency services, making them indirect competitors to Coinbase.
 
 ### How does this company use technology to their advantage? Why are they considered a FinTech company?
 
+Coinbase relies on web3.0 and redundant blockchain infrastructure.  It uses multi-cloud computing to generate an enterprise grade platform as a service. 
+It utilizes the use of 50 technological products.
+The end product is a platform that allowns consumers to buy and sell cryptocurrencys, amongst others.
+
 ### Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
 Coinbase is one of the leaders in their sector which is the platform for buying and selling Crypto cureency because of their easy user interface. Anyone can make an account in Coinbase with ease and start buying and selling Crptocurrencies right away.  
 
