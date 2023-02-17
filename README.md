@@ -14,3 +14,5 @@ cryptocurrency services, making them indirect competitors to Coinbase.
 Coinbase is one of the leaders in their sector which is the platform for buying and selling Crypto cureency because of their easy user interface. Anyone can make an account in Coinbase with ease and start buying and selling Crptocurrencies right away.  
 
 ### What is the prognosis for this company? Where do they expect to be in the future?
+
+![coinbase](coinbase.jpg) 
