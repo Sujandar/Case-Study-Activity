@@ -16,6 +16,12 @@ The end product is a platform that allowns consumers to buy and sell cryptocurre
 
 ### Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
 Coinbase is one of the leaders in their sector which is the platform for buying and selling Crypto cureency because of their easy user interface. Anyone can make an account in Coinbase with ease and start buying and selling Crptocurrencies right away.  
+##### Strenghts: 
+* Reward Program
+* Mobile app
+
+##### Pros:
+* High fees on transactions
 
 ### What is the prognosis for this company? Where do they expect to be in the future?
 
