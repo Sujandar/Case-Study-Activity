@@ -14,6 +14,17 @@ Coinbase relies on web3.0 and redundant blockchain infrastructure.  It uses mult
 It utilizes the use of 50 technological products.  AWS is the cloud company of choice by Coinbase.
 The end product is a platform that allowns consumers to buy and sell cryptocurrencys, amongst others.
 
+AWS offers a wide range of tools and services that cover Coinbase needs, including:
+
+AWS Identity and Access Management (IAM) to securely control access to AWS services;
+Amazon Relational Database Service (Amazon RDS) to easily set, use, and scale relational databases in the cloud;
+Amazon Elastic Compute Cloud (Amazon EC2) with the deepest and broadest computing platform, offering over 475 instances and set of the latest processors, storages, networks, operation systems, and purchase models for practically any load;
+AWS Availability Zones to distribute apps natively around the globe;
+Amazon Kinesis to seamlessly collect, process, and analyze real-time streaming data to get timely insights and respond promptly.
+AWS CloudTrail, Amazon Simple Storage Service (Amazon S3), AWS Lambda to get complete, transparent, and indexed audit logs across the IT environment.
+Amazon Elastic MapReduce (Amazon EMR) to receive additional big-data insight;
+Amazon Redshift to provide a managed petabyte-scale data warehouse;
+
 ### Why is this company exemplary in the FinTech space? What are their strengths and weaknesses?
 Coinbase is one of the leaders in their sector which is the platform for buying and selling Crypto cureency because of their easy user interface. Anyone can make an account in Coinbase with ease and start buying and selling Crptocurrencies right away.  
 ##### Strenghts: 
